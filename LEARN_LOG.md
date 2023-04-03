@@ -1,7 +1,32 @@
 
 # Learning Log
 
-# Variables and Statements
+## Functions
+ ### BuiltIn
+ - group sets of statements
+ -
+ ```js
+
+ ```
+
+## Types
+- Strings
+- Numbers
+- Objects
+- Null
+- Undefined
+- Booleans
+- Symbol
+## Code Qulaity Tooling with Prettier and ESLint
+
+- [ESLint](https://eslint.org/)
+  - design patterns
+  - make an ignore folder
+- [Prettier](<https://prettier.io/>)
+
+- installing
+
+## Variables and Statements
 
 - type and declarations
 - **;** is at the end of a js line it marks the end of the statement
